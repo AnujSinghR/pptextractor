@@ -9,14 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.20",
     "jszip": "^3.10.1",
     "next": "14.2.7",
     "pdf-lib": "^1.17.1",
     "pdf-parse": "^1.1.1",
     "pdfjs-dist": "^4.9.155",
+    "postcss": "^8.4.49",
     "pptx2json": "^0.0.10",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "tailwindcss": "^3.4.17"
   },
   "devDependencies": {
     "@types/node": "^20",
